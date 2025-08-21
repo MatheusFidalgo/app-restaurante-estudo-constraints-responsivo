@@ -1,4 +1,4 @@
-<img width="596" height="1280" alt="image" src="https://github.com/user-attachments/assets/bbe7a2a4-74bb-4ac3-a14e-991d4f1594a4" /># Panucci Ristorante
+# Panucci Ristorante
 ## Projeto de estudo de layout responsivo
 ## Imagem abaixo da tela final.
 <div style="display: inline:block"><br>
