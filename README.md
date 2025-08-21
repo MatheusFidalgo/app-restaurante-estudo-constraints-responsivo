@@ -1,16 +1,9 @@
-# panucci_ristorante
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="596" height="1280" alt="image" src="https://github.com/user-attachments/assets/bbe7a2a4-74bb-4ac3-a14e-991d4f1594a4" /># Panucci Ristorante
+## Projeto de estudo de layout responsivo
+## Imagem abaixo da tela final.
+<div style="display: inline:block"><br>
+  <img align="center" alt="Projeto-ux-flutter" height="877" width="388" src="https://i.imgur.com/UvoKbfT.png" />
+  <img align="center" alt="Projeto-ux-flutter" height="877" width="388" src="https://i.imgur.com/vPrEj5n.png" />
+  <img align="center" alt="Projeto-ux-flutter" height="877" width="388" src="https://i.imgur.com/6LN0hK6.png" />
+  <img align="center" alt="Projeto-ux-flutter" height="877" width="388" src="https://i.imgur.com/3qsOhmX.png" />
+</div>  
